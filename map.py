@@ -47,7 +47,7 @@ def main():
 
     # 上传xls文件
     file = st.sidebar.file_uploader(
-        "上传xls或xls文件,将纬度列头改为Latitude，经度列头改为Longitude,完成状态列头改为Status", type=["xls", "xlsx"])
+        "上传xls或xlsx文件,将纬度列头改为Latitude，经度列头改为Longitude,完成状态列头改为Status", type=["xls", "xlsx"])
     option = st.sidebar.selectbox(
         '选择标点类型',
         ('已完成', '未完成', '全部'))
