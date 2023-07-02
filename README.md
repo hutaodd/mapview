@@ -1,5 +1,9 @@
 ## 使用指南
 
+### 在线使用
+
+[数据地图标点 · Streamlit (mapview-uek8gr3l3ws.streamlit.app)](https://mapview-uek8gr3l3ws.streamlit.app/)
+
 ### 数据说明
 
 本脚本基于streamlit实现地图数据标点
